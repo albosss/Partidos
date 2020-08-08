@@ -8,3 +8,6 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/871.ts
 
 #EXTINF:-1, canal 3
 http://201.87.232.214:25461/live/marcondes/101010/14337.ts
+
+#EXTINF:-1, canal 4
+http://wp.highstream.club:80/edge/BTS2/chunks.m3u8
