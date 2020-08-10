@@ -13,9 +13,6 @@ http://201.87.232.214:25461/live/marcondes/101010/14337.ts
 http://wp.highstream.club:80/edge/BTS2/chunks.m3u8
 
 #EXTINF:-1, canal 5
-https://sportzonline.co/channels/hd/hd2.php
-
-#EXTINF:-1, canal 5
 https://sportzonline.co/channels/pt/sporttv1.php
 
 #EXTINF:-1, canal 6
@@ -29,18 +26,6 @@ https://baldystreams.vasguihyjoikpfejhadbs.xyz:443/out/v1/867da8538bcc4956a4b966
 
 #EXTINF:-1, canal 9
 http://103.194.171.164/hls/bt1.m3u8
-
-#EXTINF:-1, canal 10
-http://45.134.21.253/hls/L1.m3u8
-
-#EXTINF:-1, canal 11
-https://sportzonline.co/channels/hd/hd5.php
-
-#EXTINF:-1, canal 12
-https://sportzonline.co/channels/hd/hd7.php
-
-#EXTINF:-1, canal 13
-http://jarvis1.azureedge.net:80/hls/btsport2/chunks.m3u8
 
 #EXTINF:-1, canal 14
 https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com:443/out/v1/4fc6c76b87dd42b4bdbebc50af4aab62/index_1.m3u8
