@@ -41,3 +41,24 @@ http://45.134.21.253/hls/L1.m3u8
 
 #EXTINF:-1, canal 18
 http://45.134.21.253/hls/L2.m3u8
+
+EXTINF:-1, canal 18
+21:00h Atalanta vs PSG
+
+EXTINF:-1, canal 18
+https://cdm.dailysport.pw/1/1.m3u8
+
+EXTINF:-1, canal 18
+https://cdm.dailysport.pw/2/2.m3u8
+
+EXTINF:-1, canal 18
+http://stream.elitegol.me/hls/vip2.m3u8
+
+EXTINF:-1, canal 18
+https://caf900c010ea8046.mediapackage.eu-west-3.amazonaws.com/out/v1/5faeb01c9351453eb62381621f0f92d4/live_2.m3u8?Dexter
+
+EXTINF:-1, canal 18
+https://caf900c010ea8046.mediapackage.eu-west-3.amazonaws.com/out/v1/867da8538bcc4956a4b966234df19c87/somecolourtiestream_7.m3u8?Dexter
+
+EXTINF:-1, canal 18
+http://elitegol.me/ver-movistar-liga-de-campeones/
